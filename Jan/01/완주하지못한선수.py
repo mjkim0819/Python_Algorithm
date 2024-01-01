@@ -1,3 +1,5 @@
+# hash, dict
+
 def solution(participant, completion):
     dic = {}
     sum = 0
